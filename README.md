@@ -9,3 +9,17 @@ coverY: 307.007786429366
 ## Welcome aboard!
 
 Welcome to the company wiki! Here you'll find everything you need to know about the company. 1312!
+
+{% tabs %}
+{% tab title="First Tab" %}
+first tab
+{% endtab %}
+
+{% tab title="Second Tab" %}
+second
+{% endtab %}
+
+{% tab title="another" %}
+one
+{% endtab %}
+{% endtabs %}
