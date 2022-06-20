@@ -1,17 +1,15 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [intro](README.md)
 
-## The Company
+## Schema
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [web](schema/web.md)
+* [graphql](schema/graphql.md)
+* [blockchain](schema/blockchain.md)
+* [vault](schema/vault.md)
 
-## The Formal Stuff
+## nodes
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
-
-***
-
-* [Page 1](page-1.md)
+* [ipfs](nodes/ipfs.md)
+* [graphql](nodes/graphql.md)
