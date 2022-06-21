@@ -2,14 +2,13 @@
 
 * [intro](README.md)
 
-## Schema
+## Schemas
 
-* [web](schema/web.md)
-* [graphql](schema/graphql.md)
-* [blockchain](schema/blockchain.md)
-* [vault](schema/vault.md)
+* [primary](schemas/web.md)
+* [types](schemas/types.md)
 
 ## nodes
 
-* [ipfs](nodes/ipfs.md)
-* [graphql](nodes/graphql.md)
+* [ipfs](the-company/vision-and-values.md)
+* [graphql](the-company/meet-the-team.md)
+* [vault](nodes/vault.md)
