@@ -4,8 +4,9 @@
 
 ## Schemas
 
-* [primary](schemas/web.md)
-* [types](schemas/types.md)
+* [primary](the-formal-stuff/requesting-time-off.md)
+* [types](schemas/types/README.md)
+  * [officer](schemas/types/officer.md)
 
 ## nodes
 
